@@ -1,4 +1,4 @@
-# 🚀 Personal Portfolio - Ravi Kumar Nayak
+# 🚀 Personal Portfolio - Ravi Kumar Nayakala
 
 Welcome to my personal portfolio website! This is a fully responsive, modern, and minimalist portfolio to showcase my projects, skills, education, and contact details — all wrapped up in a clean design built with HTML, CSS, and JavaScript.
 
